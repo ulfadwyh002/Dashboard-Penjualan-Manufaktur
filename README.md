@@ -1,3 +1,3 @@
 # Dashboard-Penjualan-Manufaktur
 
-![Wourcloud](Dashboard Manufaktur.png)
+![Dashboard Manufaktur](Dashboard Manufaktur.png)
